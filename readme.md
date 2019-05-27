@@ -22,7 +22,8 @@
 
 ### Deep Learning
 
-- [Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) - Alex Kendall, Yarin Gal and Roberto Cipolla. (2018) [[code]](https://github.com/yaringal/multi-task-learning-example)
+- [End-to-end Multi-task Learning with Attention](https://arxiv.org/pdf/1803.10704.pdf) - Shikun Liu, Edward Johns and Andrew J. Davison. (CVPR 2019) [[code]](https://github.com/lorenmt/mtan)
+- [Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) - Roberto Cipolla, Yarin Gal and Alex Kendall. (CVPR 2018) [[code]](https://github.com/yaringal/multi-task-learning-example)
 - [Deep Multi-task Representation Learning: A Tensor Factorisation Approach](https://arxiv.org/abs/1605.06391) - Yongxin Yang and Timothy M. Hospedales. (ICLR 2017) [[code]](https://github.com/wOOL/DMTRL)
 - [Facial Landmark Detection by Deep Multi-task Learning](http://home.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf) - Zhanpeng Zhang, Ping Luo, Chen Change Loy and Xiaoou Tang. (ECCV 2014) [[code]](https://github.com/zhzhanp/TCDCN-face-alignment)
 
@@ -41,9 +42,9 @@
 
 ## Blogs
 
-- [Multi-task Learning in Tensorflow(Part 1)](https://jg8610.github.io/Multi-Task/)
-- [Multi-task Learning with Deep Neural Networks](https://medium.com/@kajalgupta/multi-task-learning-with-deep-neural-networks-7544f8b7b4e3)
-- [Deep Multi-Task Learning - 3 Lessons Learned](https://engineering.taboola.com/deep-multi-task-learning-3-lessons-learned/)
+- [Multi-task Learning in Tensorflow(Part 1)](https://jg8610.github.io/Multi-Task/) - Jonathan Godwin. (2016)
+- [Multi-task Learning with Deep Neural Networks](https://medium.com/@kajalgupta/multi-task-learning-with-deep-neural-networks-7544f8b7b4e3) - Kajal Gupta. (2017)
+- [Deep Multi-Task Learning - 3 Lessons Learned](https://engineering.taboola.com/deep-multi-task-learning-3-lessons-learned/) - Zohar Komarovsky. (2019)
 
 
 ## Contribute
